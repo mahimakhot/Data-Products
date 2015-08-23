@@ -11,4 +11,4 @@ shinyServer(
 )
 
 #> library(shinyapps)
-#> shinyapps::deployApp('E:\\Coursera\\9. Developing Data Products\\shinyapp2')
+#> shinyapps::deployApp('C:/Users/Mahima/Documents/GitHub/Data-Products')
