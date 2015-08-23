@@ -13,6 +13,8 @@ shinyUI(
                   submitButton('Submit')
             ),
             mainPanel(
+                  h3('Details:'),
+                  p('With the metric system, the formula for BMI is weight in kilograms divided by height in meters squared. Because height is commonly measured in centimeters, height in centimeters is being divided by 100 to obtain height in meters here.'),
                   h3('Metric BMI Value:'),
                   h4('You entered'),
                   h5('Height (in cm)'),
